@@ -1,10 +1,10 @@
 {
   "name": "camon-test-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "description": "Este es un paquete de ejemplo que realiza X tarea.",
+    "description": "Este es un paquete de ejemplo que realiza X tarea."
   },
   "author": "Maximiliano Colla <maximiliano@camonapp.com>",
   "license": "MIT",
