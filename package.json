@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxi-camonapp/test-package"
+    "url": "git+https://github.com/maxi-camonapp/test-package"
   },
   "keywords": [
     "camon-test-library",
