@@ -4,9 +4,23 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "description": "Este es un paquete de ejemplo que realiza X tarea.",
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Maximiliano Colla <maximiliano@camonapp.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxi-camonapp/test-package"
+  },
+  "keywords": [
+    "camon-test-library",
+    "npm",
+    "paquete"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
 }
